@@ -1,16 +1,42 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Data Animation">
+</p>
 
-<!--
-**Arundhamjena/Arundhamjena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Arundham Jena
 
-Here are some ideas to get you started:
+🎯 I'm an aspiring **Data Analyst** passionate about turning raw data into meaningful insights.  
+📊 Skilled in **SQL**, **Power BI**, **Python (Pandas, NumPy)**, **EDA** and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills & Tools
+
+- 💻 SQL  
+- 🐍 Python (Pandas, NumPy)  
+- 📊 Power BI, Tableau, Excel  
+- 📈 Data Analysis, EDA Fundamentals  
+- 📚 Statistics & Probability, Hypothesis Testing  
+- 📉 Data Visualization (Matplotlib, Seaborn)  
+- 🤖 Machine Learning Basics  
+
+---
+
+## 🗂 Portfolio
+
+**Welcome to my portfolio!**  
+Here, I showcase my work on data analysis, business case studies, and more:  
+🔗 [Visit Portfolio](https://your-portfolio-link.com)
+
+---
+
+## 🤝 Let's Connect!
+
+Feel free to explore my repositories, and connect with me on LinkedIn.  
+Let’s unlock the power of data together!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/arundham-jena-59aa20143/)
+- 📫 Email: arundhamjena04@gmail.com
+
+---
+
+> “Without data, you're just another person with an opinion.” – W. Edwards Deming
