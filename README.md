@@ -25,7 +25,7 @@
 
 **Welcome to my portfolio!**  
 Here, I showcase my work on data analysis, business case studies, and more:  
-🔗 [Visit Portfolio](https://your-portfolio-link.com)
+🔗 [Visit Portfolio](https://arundhamjena.github.io/)
 
 ---
 
